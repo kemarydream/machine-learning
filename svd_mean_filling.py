@@ -1,3 +1,4 @@
+#this file is modified from "骰子AI"'s code on bilibili
 import numpy as np
 import pandas as pd
 
